@@ -177,12 +177,12 @@ margin-top: 20px;
     
     .skills-section {
       padding-top: 20px;
-      margin-left: 200px;
+      margin-left: 5px;
   }
   
   .skills-header {
       text-align: center;
-      margin-left: -190px;
+      margin-left: 5px;
       color: #fff;
       padding: 1rem;
       position: relative;
